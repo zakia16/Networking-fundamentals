@@ -1,0 +1,38 @@
+# Security Quiz - Set 1
+
+### 1. The organization that Chris works for has disabled automatic updates. What is the most common reason for disabling automatic updates for organizational systems?
+* A. To avoid disruption of the work process for office workers
+* B. To prevent security breaches due to malicious patches and updates
+* C. To avoid issues with problematic patches and updates
+* D. All of the above
+
+> **Explanation:** Organizations often disable automatic updates to test them first in a controlled environment. This ensures that a new patch won't cause system instability or software conflicts before it is rolled out to the entire company.
+
+---
+
+### 2. Which of the following is the least volatile according to the forensic order of volatility?
+* A. The system's routing table
+* B. Logs
+* C. Temp files
+* D. CPU registers
+
+
+> **Explanation:** In digital forensics, the order of volatility ranks how long data remains available. Data in CPU registers and RAM (like routing tables) is highly volatile and lost when power is cut. Logs are stored on non-volatile media (the hard drive) and are more persistent than temporary system files.
+
+---
+
+### 3. Ed wants to trick a user into connecting to his evil twin access point (AP). What type of attack should he conduct to increase his chances of the user connecting to it?
+* A. A disassociation attack
+* B. An application denial-of-service attack
+* C. A known plain-text attack
+* D. A network denial-of-service attack
+
+> **Explanation:** A disassociation attack kicks a user off their legitimate network. When the user's device attempts to reconnect, it will often automatically connect to the attacker's "Evil Twin" if it has the same name and a stronger signal.
+
+---
+
+## Answer Section
+
+1) C
+2) B
+3) A
