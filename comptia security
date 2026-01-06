@@ -27,8 +27,8 @@ https://www.slideshare.net/slideshow/comptia-security-study-guide-with-over-500-
 * C. A known plain-text attack
 * D. A network denial-of-service attack
 
-> **Explanation:** A disassociation attack kicks a user off their legitimate network. When the user's device attempts to reconnect, it will often automatically connect to the attacker's "Evil Twin" if it has the same name and a stronger signal.
-
+> **Explanation:** A Wireless disassociation attack kicks a user off their legitimate network. When the user's device attempts to reconnect, it will often automatically connect to the attacker's "Evil Twin" if it has the same name and a stronger signal.
+# Relate that YouTube story
 ---
 
 ## Answer Section
