@@ -31,8 +31,52 @@ https://www.slideshare.net/slideshow/comptia-security-study-guide-with-over-500-
 # Relate that YouTube story
 ---
 
+*4. What term is used to describe wireless site surveys that show the relative power of access points on a diagram of the building or facility?
+* A. Signal surveys
+* B. db maps
+* C. AP topologies
+* D. Heatmaps
+
+> **Explanation:** Heatmaps are visual representations of wireless signal strength. They use color-coding (typically red for strong and blue for weak) overlaid on a floor plan to show coverage and dead zones.
+
+---
+
+### 5. What hardware device is used to create the hardware root of trust for modern desktops and laptops?
+* A. System memory
+* B. A HSM
+* C. The CPU
+* D. The TPM
+
+> **Explanation:** A Trusted Platform Module (TPM) is a specialized chip on a local device that provides hardware-based security functions, such as generating and storing cryptographic keys, which forms the "root of trust."
+
+---
+
+### 6. Angela wants to prevent users in her organization from changing their passwords repeatedly after they have been changed so that they cannot reuse their current password. What two password security settings does she need to implement to make this occur?
+* A. Set a password history and a minimum password age.
+* B. Set a password history and a complexity setting.
+* C. Set a password minimum and maximum age.
+* D. Set password complexity and maximum age.
+
+> **Explanation:** Password history remembers old passwords to prevent immediate reuse. However, a "minimum password age" is required to prevent users from rapidly changing their password multiple times in one day just to cycle through the history and get back to their original one.
+
+---
+
+### 7. Chris wants to establish a backup site that is fully ready to take over for full operations for his organization at any time. What type of site should he set up?
+* A. A cold site
+* B. A clone site
+* C. A hot site
+* D. A ready site
+
+> **Explanation:** A hot site is a fully functional backup facility that has all the necessary hardware, software, and up-to-date data mirrored from the main site, allowing for near-instant failover.
+
+---
+
 ## Answer Section
 
 1) C
 2) B
 3) A
+4) D
+5) D
+6) A
+7) C
