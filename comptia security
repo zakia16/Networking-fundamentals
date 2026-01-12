@@ -42,7 +42,7 @@ https://www.google.com/search?sca_esv=771acecac632a57b&rlz=1C1UEAD_enUS1094US109
 
 ---
 
-### 5. What hardware device is used to create the hardware root of trust for modern desktops and laptops?
+5. What hardware device is used to create the hardware root of trust for modern desktops and laptops?
 * A. System memory
 * B. A HSM
 * C. The CPU
@@ -52,7 +52,7 @@ https://www.google.com/search?sca_esv=771acecac632a57b&rlz=1C1UEAD_enUS1094US109
 
 ---
 
-### 6. Angela wants to prevent users in her organization from changing their passwords repeatedly after they have been changed so that they cannot reuse their current password. What two password security settings does she need to implement to make this occur?
+6. Angela wants to prevent users in her organization from changing their passwords repeatedly after they have been changed so that they cannot reuse their current password. What two password security settings does she need to implement to make this occur?
 * A. Set a password history and a minimum password age.
 * B. Set a password history and a complexity setting.
 * C. Set a password minimum and maximum age.
@@ -68,10 +68,10 @@ If password history is set to 5, the user cannot reuse any of their last 5 passw
 2️⃣ Minimum Password Age
 Requires a password to be kept for a certain amount of time before it can be changed again.
 Example:
-If minimum password age is 1 day, the user must wait 24 hours before changing it again.
+If the minimum password age is 1 day, the user must wait 24 hours before changing it again.
 ---
 
-### 7. Chris wants to establish a backup site that is fully ready to take over for full operations for his organization at any time. What type of site should he set up?
+7. Chris wants to establish a backup site that is fully ready to take over for full operations for his organization at any time. What type of site should he set up?
 * A. A cold site
 * B. A clone site
 * C. A hot site
@@ -83,6 +83,14 @@ A. Cold site → Facility only; no active systems or data. Slowest recovery.
 B. Clone site → Exact copy of production, usually updated periodically (not always real-time).
 C. Hot site → Fully operational with real-time data replication; fastest recovery.
 D. Ready site (Warm site) → Partially configured systems; moderate recovery time.
+
+---
+
+8. Which of the following is not a common constraint of embedded and specialized systems?
+A. Computational power
+B. Overly complex firewall settings
+C. Lack of network connectivity
+D. Inability to patch
 
 ---
 chap 8 - page 362
@@ -97,3 +105,4 @@ chap 9 - page 407
 5) D
 6) A
 7) C
+8) B
