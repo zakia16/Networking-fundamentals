@@ -79,6 +79,11 @@ If minimum password age is 1 day, the user must wait 24 hours before changing it
 
 > **Explanation:** A hot site is a fully functional backup facility that has all the necessary hardware, software, and up-to-date data mirrored from the main site, allowing for near-instant failover.
 
+A. Cold site → Facility only; no active systems or data. Slowest recovery.
+B. Clone site → Exact copy of production, usually updated periodically (not always real-time).
+C. Hot site → Fully operational with real-time data replication; fastest recovery.
+D. Ready site (Warm site) → Partially configured systems; moderate recovery time.
+
 ---
 chap 8 - page 362
 chap 9 - page 407
