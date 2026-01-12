@@ -60,6 +60,15 @@ https://www.google.com/search?sca_esv=771acecac632a57b&rlz=1C1UEAD_enUS1094US109
 
 > **Explanation:** Password history remembers old passwords to prevent immediate reuse. However, a "minimum password age" is required to prevent users from rapidly changing their password multiple times in one day just to cycle through the history and get back to their original one.
 
+1️⃣ Password History:
+Remembers a set number of previously used passwords.Prevents users from reusing those passwords.
+Example:
+If password history is set to 5, the user cannot reuse any of their last 5 passwords.
+
+2️⃣ Minimum Password Age
+Requires a password to be kept for a certain amount of time before it can be changed again.
+Example:
+If minimum password age is 1 day, the user must wait 24 hours before changing it again.
 ---
 
 ### 7. Chris wants to establish a backup site that is fully ready to take over for full operations for his organization at any time. What type of site should he set up?
