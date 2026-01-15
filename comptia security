@@ -93,6 +93,54 @@ C. Lack of network connectivity
 D. Inability to patch
 
 ---
+9. Gary is reviewing his system's SSH logs and sees logins for the user named “Gary” with passwords like password1, password2 … Password. What type of attack has Gary discovered?
+A. A dictionary attack
+B. A rainbow table attack
+C. A pass-the-hash attack
+D. A password spraying attack
+
+
+---
+10. Kathleen wants to set up a system that allows access into a high-security zone from a low-security zone. What type of solution should she configure?
+A. VDI
+B. A container
+C. A screened subnet
+D. A jump server
+
+
+---
+11. Derek's organization is worried about a disgruntled employee publishing sensitive business information. What type of threat should Derek work to protect against?
+A. Shoulder surfing
+B. Social engineering
+C. Insider threats
+D. Phishing
+
+
+---
+12. Jeff is concerned about the effects that a ransomware attack might have on his organization and is designing a backup methodology that would allow the organization to quickly restore data after such an attack. What type of control is Jeff implementing?
+A. Corrective
+B. Preventive
+C. Detective
+D. Deterrent
+
+13. Samantha is investigating a cybersecurity incident where an internal user used his computer to participate in a denial-of-service attack against a third party. What type of policy was most likely violated?
+A. BPA
+B. SLA
+C. AUP
+D. MOU
+
+14. Jean recently completed the user acceptance testing process and is getting her code ready to deploy. What environment should house her code before it is released for use?
+A. Test
+B. Production
+C. Development
+D. Staging
+
+15. Rob has created a document that describes how staff in his organization can use organizationally owned devices, including if and when personal use is allowed. What type of policy has Rob created?
+A. A change management policy
+B. An acceptable use policy
+C. An access control policy
+D. A playbook
+---
 chap 8 - page 362
 chap 9 - page 407
 
@@ -106,3 +154,6 @@ chap 9 - page 407
 6) A
 7) C
 8) B
+9) A
+10) D
+11) C
