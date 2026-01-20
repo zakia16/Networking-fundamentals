@@ -117,29 +117,68 @@ D. Phishing
 
 
 ---
-12. Jeff is concerned about the effects that a ransomware attack might have on his organization and is designing a backup methodology that would allow the organization to quickly restore data after such an attack. What type of control is Jeff implementing?
+12. Jeff is concerned about the effects that a ransomware attack might have on his organization and is designing a 
+backup methodology that would allow the organization to quickly restore data after such an attack. What type of control is Jeff implementing?
 A. Corrective
 B. Preventive
 C. Detective
 D. Deterrent
 
-13. Samantha is investigating a cybersecurity incident where an internal user used his computer to participate in a denial-of-service attack against a third party. What type of policy was most likely violated?
+13. Samantha is investigating a cybersecurity incident where an internal user used his computer to participate in a denial-of-service attack 
+against a third party. What type of policy was most likely violated?
 A. BPA
 B. SLA
 C. AUP
 D. MOU
 
-14. Jean recently completed the user acceptance testing process and is getting her code ready to deploy. What environment should house her code before it is released for use?
+14. Jean recently completed the user acceptance testing process and is getting her code ready to deploy. 
+What environment should house her code before it is released for use?
 A. Test
 B. Production
 C. Development
 D. Staging
 
-15. Rob has created a document that describes how staff in his organization can use organizationally owned devices, including if and when personal use is allowed. What type of policy has Rob created?
+15. Rob has created a document that describes how staff in his organization can use organizationally owned devices, 
+including if and when personal use is allowed. What type of policy has Rob created?
 A. A change management policy
 B. An acceptable use policy
 C. An access control policy
 D. A playbook
+
+16. Oren obtained a certificate for his domain covering
+.acmewidgets.net. Which one of the following domains would not be covered by this certificate?
+
+A. www.acmewidgets.net
+B. acmewidgets.net
+C. test.mail.acmewidgets.net
+D. mobile.acmewidgets.net
+
+17. Richard is sending a message to Grace and would like to apply a digital signature to the message before sending it. 
+What key should he use to create the digital signature?
+
+A. Richard’s private key
+B. Richard’s public key
+C. Grace’s private key
+D. Grace’s public key
+
+18. Stephanie is reviewing a customer transaction database and comes across the data table shown here. 
+What data minimization technique has most likely been used to obscure the credit card information in this table?
+
+Order Number	Amount	Date	Credit Card Number
+1023	$25,684	10/7/2023	c4ca4238a0b923820dcc509a6f75849b
+1024	$65,561	12/5/2023	c81e728d9d4c2f636f067f89cc14862c
+1025	$44,015	11/7/2023	eccbc87e4b5ce2fe28308fd9f2a7baf3
+1026	$89,553	7/6/2023	a87ff679a2f3e71d9181a67b7542122c
+1027	$50,316	10/16/2023	e4da3b7fbbce2345d7772b0674a318d5
+1028	$39,290	5/3/2023	d3d9446802a44259755d38e6d163e820
+1029	$67,987	3/1/2023	63dcbd546ba3c2d6b9dcf5a6a2a35b01
+1030	$98,141	1/21/2023	58238eac6b836c68d6f2e4f5b5b58394
+1031	$13,851	10/29/2023	8d9d4e6c3b42c5f338a8d3c614875f51
+1032	$60,475	3/13/2023	b2a1c3e3f4d4ecf1874b34087ebc896
+1033	$67,207	9/15/2023	1ed3c76c64b038c9eb9828b2613164a3
+1034	$52,525	10/9/2023	e53a3a2798c288724a595db51db06dc
+1035	$66,399	3/5/2023	493c02b3b0ae4b6824a4d61872e5c5
+1036	$37,676	11/4/2023	8fd7e8c07a120a97785fb8ea1f4a5ee
 ---
 chap 8 - page 362
 chap 9 - page 407
