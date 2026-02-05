@@ -292,6 +292,56 @@ A. Control objectives
 B. Security priorities
 C. Strategic goals
 D. Best practices
+
+13. Lou mounted the sign below ["BEWARE OF DOG"] on the fence surrounding his organization's datacenter. What control type best describes this control?
+A. Compensating
+B. Detective
+C. Physical
+D. Deterrent
+
+14. What technology uses mathematical algorithms to render information unreadable to those lacking the required key?
+A. Data loss prevention
+B. Data obfuscation
+C. Data minimization
+D. Data encryption
+
+15. Greg recently conducted an assessment of his organization's security controls and discovered a potential gap: the organization does not use full-disk encryption on laptops. 
+What type of control gap exists in this case?
+A. Detective
+B. Corrective
+C. Deterrent
+D. Preventive
+
+16. What compliance regulation most directly affects the operations of a health-care provider?
+A. HIPAA
+B. PCI DSS
+C. GLBA
+D. SOX
+
+17. Nolan is writing an after action report on a security breach that took place in his organization. The attackers stole thousands of customer records from the organization's database. 
+What cybersecurity principle was most impacted in this breach?
+A. Availability
+B. Nonrepudiation
+C. Confidentiality
+D. Integrity
+
+18. Which one of the following objectives is not one of the three main objectives that information security professionals must achieve to protect their organizations against cybersecurity threats?
+A. Integrity
+B. Nonrepudiation
+C. Availability
+D. Confidentiality
+
+*19. Which one of the following data protection techniques is reversible when conducted properly?
+A. Tokenization
+B. Masking
+C. Hashing
+D. Shredding
+
+*20. Which one of the following statements is not true about compensating controls under PCI DSS?
+A. Controls used to fulfill one PCI DSS requirement may be used to compensate for the absence of a control needed to meet another requirement.
+B. Controls must meet the intent of the original requirement.
+C. Controls must meet the rigor of the original requirement.
+D. Compensating controls must provide a similar level of defense as the original requirement.
 ---
 
 
@@ -308,3 +358,18 @@ D. Best practices
 10) D
 11) C
 12) A
+13) D
+14) D
+15) D
+16) A
+17) C
+18) B
+19) A
+20) A
+
+
+===========================================================
+CHAPTER 6  Application Security
+Page  - Imp
+
+1.
