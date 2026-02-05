@@ -235,16 +235,47 @@ B. Nonrepudiation
 C. Integrity
 D. Availability
 
-4. Gwen is exploring a customer transaction reporting system and discovers the table shown here ((e.g., *** *** *** 1858). What type of data minimization has most likely been used on this table?
+4. Gwen is exploring a customer transaction reporting system and discovers the table shown here (e.g., *** *** *** 1858). What type of data minimization has most likely been used on this table?
 A. Destruction
 B. Masking
 C. Tokenization
 D. Hashing
 
+5. Tonya is concerned about the risk that an attacker will attempt to gain access to her organization's database server. 
+She is searching for a control that would discourage the attacker from attempting to gain access. What type of security control is she seeking to implement?
+A. Preventive
+B. Detective
+C. Corrective
+D. Deterrent: To discourage or warn an attacker against an attempt.
 
+6. Greg is implementing a data loss prevention system. He would like to ensure that it protects against transmissions of sensitive information by guests on his wireless network. 
+What DLP technology would best meet this goal?
+A. Watermarking
+B. Pattern recognition
+C. Host-based
+D. Network-based
+
+7. What term best describes data that is being sent between two systems over a network connection?
+A. Data at rest
+B. Data in transit
+C. Data in processing
+D. Data in use
+
+8. Tina is tuning her organization's intrusion prevention system to prevent false positive alerts. What type of control is Tina implementing?
+A. Technical control
+B. Physical control
+C. Managerial control
+D. Operational control
+An Intrusion Prevention System (IPS) is a hardware or software-based security tool, which classifies it as a technical control.
 ---
+
+
 ## Answer Section
 1) D
 2) B
 3) C
 4) B
+5) D
+6) D
+7) B
+8) A
