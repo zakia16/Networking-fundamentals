@@ -215,3 +215,36 @@ chap 9 - page 407
 15) B
 19) B. Risk transference
 20) C. Procedure
+
+===========================================================
+CHAPTER 1
+Page 65 - Imp
+
+1. Matt is updating the organization's threat assessment process. What category of control is Matt implementing? 
+A. Operational B. Technical C. Corrective D. Managerial
+
+2. Jade's organization recently suffered a security breach that affected stored credit card data. Jade's primary concern is 
+the fact that the organization is subject to sanctions for violating the provisions of the Payment Card Industry Data Security Standard. 
+What category of risk is concerning Jade? 
+A. Strategic B. Compliance C. Operational D. Financial
+
+3. Chris is responding to a security incident that compromised one of his organization's web servers. He believes that the attackers defaced one or more pages on the website. 
+What cybersecurity objective did this attack violate?
+A. Confidentiality
+B. Nonrepudiation
+C. Integrity
+D. Availability
+
+4. Gwen is exploring a customer transaction reporting system and discovers the table shown here ((e.g., *** *** *** 1858). What type of data minimization has most likely been used on this table?
+A. Destruction
+B. Masking
+C. Tokenization
+D. Hashing
+
+
+---
+## Answer Section
+1) D
+2) B
+3) C
+4) B
