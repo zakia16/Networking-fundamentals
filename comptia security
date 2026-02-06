@@ -370,6 +370,52 @@ D. Compensating controls must provide a similar level of defense as the original
 
 ===========================================================
 CHAPTER 6  Application Security
-Page  - Imp
+Page  - 290
 
-1.
+1. Adam is conducting software testing by reviewing the source code of the application. What type of code testing is Adam conducting?
+A. Mutation testing
+B. Static code analysis
+C. Dynamic code analysis
+D. Fuzzing
+
+2. Charles is worried about users conducting SQL injection attacks. Which of the following solutions will best address his concerns?
+A. Using secure session management
+B. Enabling logging on the database
+C. Performing user input validation
+D. Implementing TLS
+
+3. Precompiled SQL statements that only require variables to be input are an example of what type of application security control?
+A. Parameterized queries
+B. Encoding data
+C. Input validation
+D. Appropriate access controls
+
+*Input validation (2) and Parameterized queries (3) are the primary defenses against SQL injection.
+https://www.youtube.com/shorts/BXsDafCvwCQ
+
+*4.During a web application test, Ben discovers that the application shows SQL code as part of an error provided to application users. What should he note in his report?
+A. Improper error handling
+B. Code exposure
+C. SQL injection
+D. A default configuration issue
+
+*5. The application that Scott is writing has a flaw that occurs when two operations are attempted at the same time, resulting in unexpected results when the two actions do not occur in the expected order. 
+What type of flaw does the application have?
+A. Dereferencing
+B. A race condition
+C. An insecure function
+D. Improper error handling
+What is  race condition?
+
+*6. Every time Susan checks code into her organization's code repository, it is tested and validated, and then if accepted, it is immediately put into production. What is the term for this?
+A. Continuous integration
+B. Continuous delivery
+C. A security nightmare
+D. Agile development
+
+7. Tim is working on a change to a web application used by his organization to fix a known bug. What environment should he be working in? = tricky
+A. Test
+B. Development
+C. Staging
+D. Production
+
