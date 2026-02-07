@@ -393,7 +393,7 @@ D. Appropriate access controls
 *Input validation (2) and Parameterized queries (3) are the primary defenses against SQL injection.
 https://www.youtube.com/shorts/BXsDafCvwCQ
 
-*4.During a web application test, Ben discovers that the application shows SQL code as part of an error provided to application users. What should he note in his report?
+*4. During a web application test, Ben discovers that the application shows SQL code as part of an error provided to application users. What should he note in his report?
 A. Improper error handling
 B. Code exposure
 C. SQL injection
@@ -405,7 +405,7 @@ A. Dereferencing
 B. A race condition
 C. An insecure function
 D. Improper error handling
-What is  race condition?
+What is a race condition?
 
 *6. Every time Susan checks code into her organization's code repository, it is tested and validated, and then if accepted, it is immediately put into production. What is the term for this?
 A. Continuous integration
@@ -419,3 +419,25 @@ B. Development
 C. Staging
 D. Production
 
+*8. Ricky is concerned that developers in his organization make use of third-party code in their applications, which may introduce unknown vulnerabilities. 
+He is concerned about the risk of the organization running code that it is not aware it is using. Which one of the following activities would best address this risk?
+A. Web application firewalls
+B. Package monitoring
+C. Static analysis
+D. Dynamic analysis
+
+9. Which one of the following is not an advantage of automation in cybersecurity operations?
+A. Enforcing baselines
+B. Technical debt
+C. Employee retention
+D. Standardizing infrastructure configurations
+
+10. Chris is creating a script that will automatically screen any user requests and flag those that exceed normal thresholds for manual review. What term best describes this automation use case?
+A. User provisioning
+B. Guard rails
+C. Ticket creation
+D. Escalation
+
+11. Which one of the following is not a common drawback of automating cybersecurity operations?
+A. Reducing employee satisfaction
+B. Creating single points of failure
