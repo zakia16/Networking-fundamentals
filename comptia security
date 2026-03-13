@@ -441,3 +441,27 @@ D. Escalation
 11. Which one of the following is not a common drawback of automating cybersecurity operations?
 A. Reducing employee satisfaction
 B. Creating single points of failure
+C. Costs
+D. Complexity
+
+12. Frank is investigating a security incident where the attacker entered a very long string into an input field, which was followed by a system command. What type of attack likely took place?
+A. Cross-site request forgery
+B. Server-side request forgery
+C. Command injection
+D. Buffer overflow
+
+13. What type of attack places an attacker in the position to eavesdrop on communications between a user and a web server?
+A. On-path attack
+B. Session hijacking
+C. Buffer overflow
+D. Meet-in-the-middle
+
+14. Tom is a software developer who creates code for sale to the public. He would like to assure his users that the code they receive actually came from him. What technique can he use to best provide this assurance?
+A. Code signing
+B. Code endorsement
+C. Code encryption
+D. Code obfuscation
+
+15. Chris is reviewing evidence of a cross-site scripting attack where the attacker embedded JavaScript in a URL that a user clicked. The web page then sent the JavaScript to the user in the displayed page. What term best describes this attack?
+A. Reflected XSS
+B. Stored XSS
