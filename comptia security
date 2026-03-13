@@ -465,3 +465,48 @@ D. Code obfuscation
 15. Chris is reviewing evidence of a cross-site scripting attack where the attacker embedded JavaScript in a URL that a user clicked. The web page then sent the JavaScript to the user in the displayed page. What term best describes this attack?
 A. Reflected XSS
 B. Stored XSS
+C. Persistent XSS
+D. DOM-based XSS
+
+16. Joe checks his web server logs and sees that someone sent the following query string to an application running on the server:
+www.mycompany.com/servicestatus.php?serviceID=892&serviceID=892'%20;DROP%20TABLE%20Services;--
+
+What type of attack was most likely attempted?
+A. Cross-site scripting
+B. Session hijacking
+C. Parameter pollution
+D. On-path
+
+17. Upon further inspection, Joe finds a series of thousands of requests to the same URL coming from a single IP address. Here are a few examples:
+www.mycompany.com/servicestatus.php?serviceID=1
+www.mycompany.com/servicestatus.php?serviceID=2
+www.mycompany.com/servicestatus.php?serviceID=3
+www.mycompany.com/servicestatus.php?serviceID=4
+www.mycompany.com/servicestatus.php?serviceID=5
+www.mycompany.com/servicestatus.php?serviceID=6
+
+What type of vulnerability was the attacker likely trying to exploit?
+A. Insecure direct object reference
+B. File upload
+C. Unvalidated redirect
+D. Session hijacking
+
+18. Joe's adventures in web server log analysis are not yet complete. As he continues to review the logs, he finds the request:
+www.mycompany.com/../../../../etc/passwd
+What type of attack was most likely attempted?
+A. SQL injection
+B. Session hijacking
+C. Directory traversal
+D. File upload
+
+19. Wendy is a penetration tester who wishes to engage in a session hijacking attack. What information is crucial for Wendy to obtain if her attack will be successful?
+A. Session ticket
+B. Session cookie
+C. Username
+D. User password
+
+20. Joe is examining the logs for his web server and discovers that a user sent input to a web application that contained the string WAITFOR. What type of attack was the user likely attempting?
+A. Timing-based SQL injection
+B. HTML injection
+C. Cross-site scripting
+D. Content-based SQL injection
