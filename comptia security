@@ -369,7 +369,7 @@ D. Compensating controls must provide a similar level of defense as the original
 
 
 ===========================================================
-CHAPTER 6  Application Security
+CHAPTER 6  Application Security (Needs Studying)
 Page  - 290
 
 1. Adam is conducting software testing by reviewing the source code of the application. What type of code testing is Adam conducting?
@@ -444,25 +444,28 @@ B. Creating single points of failure
 C. Costs
 D. Complexity
 
-12. Frank is investigating a security incident where the attacker entered a very long string into an input field, which was followed by a system command. What type of attack likely took place?
+12. Frank is investigating a security incident where the attacker entered a very long string into an input field, which was followed by a system command. 
+What type of attack likely took place?
 A. Cross-site request forgery
 B. Server-side request forgery
 C. Command injection
 D. Buffer overflow
 
-13. What type of attack places an attacker in the position to eavesdrop on communications between a user and a web server?
+*13. What type of attack places an attacker in the position to eavesdrop on communications between a user and a web server?
 A. On-path attack
 B. Session hijacking
 C. Buffer overflow
 D. Meet-in-the-middle
 
-14. Tom is a software developer who creates code for sale to the public. He would like to assure his users that the code they receive actually came from him. What technique can he use to best provide this assurance?
+14. Tom is a software developer who creates code for sale to the public. He would like to assure his users that the code they receive actually came from him. 
+What technique can he use to best provide this assurance?
 A. Code signing
 B. Code endorsement
 C. Code encryption
 D. Code obfuscation
 
-15. Chris is reviewing evidence of a cross-site scripting attack where the attacker embedded JavaScript in a URL that a user clicked. The web page then sent the JavaScript to the user in the displayed page. What term best describes this attack?
+**15. Chris is reviewing evidence of a cross-site scripting attack where the attacker embedded JavaScript in a URL that a user clicked. 
+The web page then sent the JavaScript to the user in the displayed page. What term best describes this attack?
 A. Reflected XSS
 B. Stored XSS
 C. Persistent XSS
@@ -470,7 +473,6 @@ D. DOM-based XSS
 
 16. Joe checks his web server logs and sees that someone sent the following query string to an application running on the server:
 www.mycompany.com/servicestatus.php?serviceID=892&serviceID=892'%20;DROP%20TABLE%20Services;--
-
 What type of attack was most likely attempted?
 A. Cross-site scripting
 B. Session hijacking
@@ -485,7 +487,7 @@ www.mycompany.com/servicestatus.php?serviceID=4
 www.mycompany.com/servicestatus.php?serviceID=5
 www.mycompany.com/servicestatus.php?serviceID=6
 
-What type of vulnerability was the attacker likely trying to exploit?
+**What type of vulnerability was the attacker likely trying to exploit?
 A. Insecure direct object reference
 B. File upload
 C. Unvalidated redirect
@@ -505,8 +507,10 @@ B. Session cookie
 C. Username
 D. User password
 
-20. Joe is examining the logs for his web server and discovers that a user sent input to a web application that contained the string WAITFOR. What type of attack was the user likely attempting?
+20. Joe is examining the logs for his web server and discovers that a user sent input to a web application that contained the string WAITFOR. 
+What type of attack was the user likely attempting?
 A. Timing-based SQL injection
 B. HTML injection
 C. Cross-site scripting
 D. Content-based SQL injection
+
