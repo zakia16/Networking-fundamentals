@@ -514,3 +514,48 @@ B. HTML injection
 C. Cross-site scripting
 D. Content-based SQL injection
 
+
+===========================================================
+CHAPTER 7  A.........
+Page  - 356
+
+1. Mike is sending David an encrypted message using a symmetric encryption algorithm. What key should he use to encrypt the message?
+A. Mike's public key
+B. Mike's private key
+C. David's public key
+D. Shared secret key
+
+2. Shahla recently discovered an attack where the attacker managed to force a network user to use weak encryption and was then able to decrypt that content. 
+What term best describes this attack?
+A. Downgrade
+B. Collision
+C. Homomorphic encryption
+D. Birthday attack
+
+3. Norm is using full-disk encryption technology to protect the contents of laptops against theft. What goal of cryptography is he attempting to achieve?
+A. Integrity
+B. Non-repudiation
+C. Authentication
+D. Confidentiality
+
+4. Brian discovers that a user suspected of stealing sensitive information is posting many image files to a message board. What technique might the individual 
+be using to hide sensitive information in those images?
+A. Steganography
+B. Homomorphic encryption
+C. Replay attack
+D. Birthday attack
+
+5. Which one of the following statements about cryptographic keys is incorrect?
+A. All cryptographic keys should be kept secret.
+B. Longer keys are better than shorter keys when the same algorithm is used.
+C. Asymmetric algorithms generally use longer keys than symmetric algorithms.
+D. Digital certificates are designed to share public keys.
+
+6. What type of cipher operates on one character of text at a time?
+A. Block cipher
+B. Bit cipher
+C. Stream cipher
+D. Balanced cipher
+
+7. Vince is choosing a symmetric encryption algorithm for use in his organization. He would like to choose the strongest algorithm from these choices. 
+What algorithm should he choose?
