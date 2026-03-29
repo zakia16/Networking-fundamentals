@@ -559,3 +559,87 @@ D. Balanced cipher
 
 7. Vince is choosing a symmetric encryption algorithm for use in his organization. He would like to choose the strongest algorithm from these choices. 
 What algorithm should he choose?
+A. DES
+B. 3DES
+C. RSA
+D. AES
+
+8. Kevin is configuring a web server to use digital certificates. What technology can he use to allow clients to quickly verify the status of those certificates without contacting a remote server?
+A. CRL
+B. OCSP
+C. Certificate stapling
+D. Certificate pinning
+
+9. Acme Widgets has 10 employees and they all need the ability to communicate with one another using a symmetric encryption system. The system should allow any 
+two employees to securely communicate without other employees eavesdropping. 
+If an 11th employee is added to the organization, how many new keys must be added to the system?
+A. 1
+B. 2
+C. 10
+D. 11
+
+10. Referring to the scenario in question 9, if Acme Widgets switched to an asymmetric encryption algorithm, how many keys would be required to add the 11th employee?
+A. 1
+B. 2
+C. 10
+D. 11
+
+11. What type of digital certificate provides the greatest level of assurance that the certificate owner is who they claim to be?
+A. DV
+B. OV
+C. UV
+D. EV
+
+12. Glenn recently obtained a wildcard certificate for *.mydomain.com. Which one of the following domains would not be covered by this certificate?
+A. mydomain.com
+B. core.mydomain.com
+C. dev.www.mydomain.com
+D. mail.mydomain.com
+
+13. Which one of the following servers is almost always an offline CA in a large PKI deployment?
+A. Root CA
+B. Intermediate CA
+C. RA
+D. Internal CA
+
+14. Which one of the following certificate formats is closely associated with Windows binary certificate files?
+A. DER
+B. PEM
+C. PFX
+D. P7B
+
+15. What type of security solution provides a hardware platform for the storage and management of encryption keys?
+A. HSM
+B. IPS
+C. SIEM
+D. SOAR
+
+16. What type of cryptographic attack attempts to force a user to reduce the level of encryption that they use to communicate with a remote server?
+A. Birthday
+B. Frequency
+C. Downgrade
+D. Collision
+
+17. David would like to send Mike a message using an asymmetric encryption algorithm. What key should he use to encrypt the message?
+A. David's public key
+B. David's private key
+C. Mike's public key
+D. Mike's private key
+
+18. When Mike receives the message that David encrypted for him, what key should he use to decrypt the message?
+A. David's public key
+B. David's private key
+C. Mike's public key
+D. Mike's private key
+
+19. If David wishes to digitally sign the message that he is sending Mike, what key would he use to create the digital signature?
+A. David's public key
+B. David's private key
+C. Mike's public key
+D. Mike's private key
+
+20. When Mike receives the digitally signed message from David, what key should he use to verify the digital signature?
+A. David's public key
+B. David's private key
+C. Mike's public key
+D. Mike's private key
