@@ -9,3 +9,6 @@ in a simple, step-by-step manner.
 - HTTP/HTTPS
 - OSI & TCP/IP models
 - Security concepts
+
+LABS:
+https://seedsecuritylabs.org/Labs_20.04/
