@@ -10,6 +10,8 @@ in a simple, step-by-step manner.
 - OSI & TCP/IP models
 - Security concepts
 
+<img width="636" height="397" alt="image" src="https://github.com/user-attachments/assets/8bba6a34-c944-4fd3-9b41-92d72a660abc" />
+
 <img width="739" height="339" alt="image" src="https://github.com/user-attachments/assets/69cf3a93-461d-40c8-a050-d97940115b8f" />
 
 
