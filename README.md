@@ -17,6 +17,8 @@ in a simple, step-by-step manner.
 
 
 <img width="690" height="308" alt="image" src="https://github.com/user-attachments/assets/59cfa319-4319-4d38-820d-931717e12145" />
+<img width="1157" height="708" alt="image" src="https://github.com/user-attachments/assets/b383acaa-efd7-4170-b08a-a0f864474fc7" />
+
 
 LABS:
 https://seedsecuritylabs.org/Labs_20.04/
