@@ -7,6 +7,7 @@ in a simple, step-by-step manner.
 
 - [Topics Covered](#topics-covered)
 - [OSI & TCP/IP Models](#osi--tcpip-models)
+- [SSL/ TLS](#)
 - [Labs](#labs)
 
 ## Topics Covered
@@ -25,7 +26,7 @@ in a simple, step-by-step manner.
 
 ![OSI vs TCP/IP](https://github.com/user-attachments/assets/be411a89-76cf-480c-bc4b-e9edd4ef6e47)
 
-![Layers](https://github.com/user-attachments/assets/59cfa319-4319-4d38-820d-931717e12145)
+![SSL/ TLS](https://github.com/user-attachments/assets/59cfa319-4319-4d38-820d-931717e12145)
 
 ![Protocols](https://github.com/user-attachments/assets/b383acaa-efd7-4170-b08a-a0f864474fc7)
 
