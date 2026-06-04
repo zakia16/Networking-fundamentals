@@ -23,12 +23,11 @@ in a simple, step-by-step manner.
 
 ![OSI vs TCP/IP](https://github.com/user-attachments/assets/48efae0a-bb63-460b-b6d5-c0f9a25d87f3)
 
+![OSI vs TCP/IP](https://github.com/user-attachments/assets/be411a89-76cf-480c-bc4b-e9edd4ef6e47)
+
 ![Layers](https://github.com/user-attachments/assets/59cfa319-4319-4d38-820d-931717e12145)
 
 ![Protocols](https://github.com/user-attachments/assets/b383acaa-efd7-4170-b08a-a0f864474fc7)
-
-<img width="640" height="417" alt="image" src="https://github.com/user-attachments/assets/be411a89-76cf-480c-bc4b-e9edd4ef6e47" />
-
 
 ## Labs
 https://seedsecuritylabs.org/Labs_20.04/
