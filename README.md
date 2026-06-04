@@ -31,7 +31,7 @@ A curated collection of networking questions and answers explained in a simple, 
 
 ### Resource
 - **Video:** [What is SSL & TLS ? What is HTTPS ? What is an SSL VPN? - Practical TLS](https://www.youtube.com/watch?v=HMoFvRK4HUo)
-🔐 SSL vs TLS vs HTTPS - Explained Simply
+- 🔐 SSL vs TLS vs HTTPS - Explained Simply
 https://x.com/techyoutbe/status/1999954160863814020
 
 ![SSL/ TLS](https://github.com/user-attachments/assets/59cfa319-4319-4d38-820d-931717e12145)
